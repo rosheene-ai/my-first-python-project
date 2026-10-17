@@ -1,0 +1,5 @@
+a=int(input("Enter value1: "))
+b=int(input("Enter value2: "))
+print(f"Addition : {a+b}")
+print(f"Substraction : {a-b}")
+print(f"Multiplication : {a*b}")
